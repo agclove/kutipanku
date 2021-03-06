@@ -1,0 +1,38 @@
+{
+  "name": "Kutipanku",
+  "short_name": "Kutipanku",
+  "start_url": "https://www.kutipanku.eu.org/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01579B",
+  "description": "Kutipanku adalah blog yang membagikan tentang kata kata bijak.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s48/ku.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s72/ku.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s96/ku.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s144/ku.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s168/ku.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s192/ku.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OTwei7YSZkE/YEMAd-BZRNI/AAAAAAAAAAM/TEDYp022BqwBhWPsaAXvPC_3_wXcWl6yACNcBGAsYHQ/s512/ku.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
